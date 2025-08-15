@@ -76,8 +76,8 @@ Turn self-care into an adventure:
 
 ```bash
 # Clone and enter
-git clone https://github.com/KATTASATWIKA/shine-through-shadows.git
-cd shine-through-shadows
+git clone [https://github.com/mraasary/AsDevAd---AI-Mental-Health-Companion.git]
+cd AsDevAd
 
 # Install magic
 npm install
